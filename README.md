@@ -11,7 +11,7 @@
 You can download any template from this repository in `ccowsay` using the `@/` syntax:
 
 ```bash
-ccowsay --get "@/path/to/file.ccow"
+ccowsay --get "path/to/file.ccow"
 ```
 
 * `@/file.ccow` refers to a template in this repository.
