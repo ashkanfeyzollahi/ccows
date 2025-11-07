@@ -14,7 +14,7 @@ You can download any template from this repository in `ccowsay` using the `@/` s
 ccowsay --get "path/to/file.ccow"
 ```
 
-* `@/file.ccow` refers to a template in this repository.
+* `path/to/file.ccow` refers to a template in this repository.
 * Use these templates to customize your ASCII art messages with speech bubbles, cow-style art, and colors.
 
 ## Contributing
