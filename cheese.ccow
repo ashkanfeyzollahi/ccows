@@ -1,8 +1,8 @@
 {}
 ---
 {message}
-   {backslash}
-    {backslash}
+   \
+    \
       _____   _________
      /     \_/         |
     |                 ||
