@@ -3,8 +3,8 @@
 }
 ---
 {message}
-   {backslash}
-    {backslash}
+   \
+    \
         .--.
        |{eyes} |
        |:_/ |
